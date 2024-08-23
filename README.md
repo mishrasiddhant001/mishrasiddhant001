@@ -28,7 +28,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,linux,docker,kubernetes,jenkins,git,opencv,javascript,npm,react,nodejs,html,css,c,mongodb,mysql,sqlite,postman,vscode,idea,pycharm,sublime,vercel,postman" />
-  </a><br><b></b>ArgoCD, Random Forest, LSTM, Python libraries & algorithms</b> and many more............
+  </a><br><b></b>ArgoCD, Random Forest Regressor, LSTM, Python libraries & algorithms</b> and many more............
 </p>
 
 <br>
