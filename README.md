@@ -1,8 +1,7 @@
 <!--horizontal divider(gradiant)-->
-<div align="center"><img src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/main/intropic.png"></div>
-<h1 align="center">Hi 👋, I'm Siddhant Mishra an Engineer</h1>
+<div align="center"><img src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/main/image.png"></div>
 <br>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/master/intro.gif">
 - 🔭 I’m currently working on **Devops, Docker, Docker(Containers), Kubernetes,Jenkins(CI/CD Automation) and more**
 
 - 🌱 I’m currently learning **Devops and Jenkins Pipelining**
