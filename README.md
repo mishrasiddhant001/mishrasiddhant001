@@ -1,3 +1,5 @@
+<!--horizontal divider(gradiant)-->
+<div align="center"><img src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/main/intropic.png"></div>
 <h1 align="center">Hi 👋, I'm Siddhant Mishra an Engineer</h1>
 <br>
 
