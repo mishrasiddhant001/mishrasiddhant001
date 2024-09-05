@@ -2,6 +2,7 @@
 <div align="center"><img src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/main/image.png"></div>
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/master/intro.gif">
+
 - 🔭 I’m currently working on **DevOps**, **Docker (Containers)**, **Jenkins (CI/CD Automation)**, **Kubernetes**
 
 - 🌱 I’m currently learning **DevOps**
