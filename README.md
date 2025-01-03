@@ -3,13 +3,13 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/master/intro.gif">
 
-- 🔭 I’m currently working on **DevOps**, **Docker (Containers)**, **Jenkins (CI/CD Automation)**, **Kubernetes** and more...
+- 🔭 I’m currently working on **DevOps**, specializing in **CI/CD Pipelines**, **Cloud Infrastructure**, **Containerization**, and **Automation**.
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m advancing my knowledge in **Infrastructure as Code (IaC)** and **Automation Scripting** with tools like Terraform and Python.
 
 - 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant-Portfolio/">My portfolio </a>
 
-- 📫 <a href="mailto:mishrasiddhant1003@gmail.com">Mail me</a>
+- 📫 <a href="mailto:siddhantmishra1002@gmail.com">Mail me</a>
 
 - 📄 <a href="https://flowcv.com/resume/k1ui39eoi4">My Resume </a>
 
@@ -28,8 +28,12 @@
 # 💻 Tech Stack:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,linux,docker,kubernetes,jenkins,git,opencv,javascript,npm,react,nodejs,html,css,c,mongodb,mysql,sqlite,postman,vscode,idea,pycharm,sublime,vercel,postman" />
-  </a><br><b></b>ArgoCD, Random Forest Regressor, LSTM, Python libraries & algorithms</b> and many more............
+    <img src="https://skillicons.dev/icons?i=python,java,linux,docker,kubernetes,jenkins,git,terraform,nginx,aws,gcp,bash,vscode,postman,mysql" />
+  </a>
+  <br>
+  <b>Tools & Frameworks:</b> Streamlit, OpenCV, Random Forest Regressor, NLTK, LSTM, and more.
+  <br>
+  <b>Testing Expertise:</b> Manual Testing, Regression Testing, Test Cases Creation, Bug Tracking, SDLC, Jira, Zephyr.
 </p>
 
 <br>
@@ -51,4 +55,3 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=mishrasiddhant001&icon=9&color=7)](https://visitcount.itsvg.in)
-
