@@ -7,7 +7,7 @@
 
 - 🌱 I’m advancing my knowledge in **Infrastructure as Code (IaC)** and **Automation Scripting** with tools like Terraform and Python.
 
-- 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant-Portfolio/">My portfolio </a>
+- 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant/">My portfolio </a>
 
 - 📫 <a href="mailto:siddhantmishra1002@gmail.com">Mail me</a>
 
