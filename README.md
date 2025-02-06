@@ -32,7 +32,7 @@
   </a>
   <br>
   
-  <b>Devops :  Docker, Jenkins, CI/CD Pipelining, Automation, Shell Scripting, Bash, Nginx/Apache, GCP (Google Cloud Platform), AWS (Amazon Web Services), Microsoft Azure, Kubernetes (k8s), Terraform </b>
+  <b>Devops:  Docker, Jenkins, CI/CD Pipelining, Automation, Shell Scripting, Bash, Nginx/Apache, GCP (Google Cloud Platform), AWS (Amazon Web Services), Microsoft Azure, Kubernetes (k8s), Terraform </b>
   <br>
   <br>
   <b>Quality Assurance:  Jira, Zephyr, Bug Tracking, Manual, Functional, Regression & Smoke Testing and Test Cases/Plans Creation</b>
