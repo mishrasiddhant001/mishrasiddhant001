@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **DevOps** (**Docker**, **CI/CD Pipelines**(**Jenkins**), **Containerization & Orchestration**, **Kubernetes**, **Terraform**, **Cloud Infrastructure Management**, , **Automation** along with **Testing**.
 
-- 🌱 I’m learning **API's(FastAPI)**.
+- 🌱 I’m learning **API's** using **FastAPI**.
 
 - 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant/" target="_blank" rel="noopener noreferrer">My portfolio</a>
 
