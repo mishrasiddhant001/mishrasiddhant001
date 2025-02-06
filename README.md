@@ -9,7 +9,7 @@
 
 - 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant/">My portfolio </a>
 
-- 📫<a href="https://mail.google.com/mail/?view=cm&fs=1&to=siddhantmishra1002@gmail.com" target="_blank">Email</a>
+- 📫 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=siddhantmishra1002@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
 
 - 📄 <a href="https://flowcv.com/resume/k1ui39eoi4">My Resume </a>
 
