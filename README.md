@@ -13,7 +13,7 @@
 
 - 📄 <a href="https://flowcv.com/resume/k1ui39eoi4">My Resume </a>
 
-- ⚡ **Poetries | Novels | Photography | Mangas **
+- ⚡ ** Poetries | Novels | Photography | Mangas **
 <br>
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
