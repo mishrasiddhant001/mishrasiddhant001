@@ -3,9 +3,9 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/master/intro.gif">
 
-- 🔭 I’m currently working on **DevOps**, specializing in **CI/CD Pipelines**, **Cloud Infrastructure**, **Containerization**, and **Automation**.
+- 🔭 I’m currently working in **DevOps**, **Docker**, **CI/CD Pipelines**, **Cloud Infrastructure Management**, **Containerization**, **Automation** along with **Testing**.
 
-- 🌱 I’m advancing my knowledge in **Infrastructure as Code (IaC)** and **Automation Scripting** with tools like Terraform and Python.
+- 🌱 I’m learning about **API's(FastAPI)** and tools like **Kubernetes**, **Terraform** .
 
 - 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant/" target="_blank" rel="noopener noreferrer">My portfolio</a>
 
