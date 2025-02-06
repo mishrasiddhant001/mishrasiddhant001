@@ -3,7 +3,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/master/intro.gif">
 
-- 🔭 I’m currently working in **DevOps** (**Docker**, **CI/CD Pipelines**(**Jenkins**), **Containerization & Orchestration**, **Kubernetes**, **Terraform**, **Cloud Infrastructure Management**, , **Automation** along with **Testing**.
+- 🔭 I’m currently working on **DevOps** (**Docker**, **CI/CD Pipelines**(**Jenkins**), **Containerization & Orchestration**, **Kubernetes**, **Terraform**, **Cloud Infrastructure Management**, , **Automation** along with **Testing**.
 
 - 🌱 I’m learning **API's** using **FastAPI**.
 
