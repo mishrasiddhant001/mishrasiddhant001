@@ -28,7 +28,7 @@
 # 💻 Tech Stack:
 <p>
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=python,java,linux,docker,kubernetes,jenkins,git,terraform,nginx,aws,gcp,bash,vscode,postman,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,linux,docker,kubernetes,jenkins,git,terraform,nginx,aws,gcp,bash,vscode,postman,mysql,java" />
   </a>
   <br>
   
