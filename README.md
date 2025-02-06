@@ -13,7 +13,7 @@
 
 - 📄 <a href="https://flowcv.com/resume/k1ui39eoi4">My Resume </a>
 
-- ⚡ Fun fact about me: **Dev | Poetries | Novels | Photography**
+- ⚡ **Dev | Poetries | Novels | Photography**
 <br>
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
