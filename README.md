@@ -3,9 +3,9 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/master/intro.gif">
 
-- 🔭 I’m currently working in **DevOps**, **Docker**, **CI/CD Pipelines**, **Cloud Infrastructure Management**, **Containerization**, **Automation** along with **Testing**.
+- 🔭 I’m currently working in **DevOps** (**Docker**, **CI/CD Pipelines**(**Jenkins**), **Containerization & Orchestration**, **Kubernetes**, **Terraform**, **Cloud Infrastructure Management**, , **Automation** along with **Testing**.
 
-- 🌱 I’m learning about **API's(FastAPI)** and tools like **Kubernetes**, **Terraform** .
+- 🌱 I’m learning **API's(FastAPI)**.
 
 - 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant/" target="_blank" rel="noopener noreferrer">My portfolio</a>
 
@@ -31,9 +31,10 @@
     <img src="https://skillicons.dev/icons?i=python,java,linux,docker,kubernetes,jenkins,git,terraform,nginx,aws,gcp,bash,vscode,postman,mysql" />
   </a>
   <br>
-  <b>Tools & Frameworks:</b> Streamlit, OpenCV, Random Forest Regressor, NLTK, LSTM, and more.
+  
+  <b>Devops: Docker, Jenkins, CI/CD Pipelining, Automation, Shell Scripting, Bash, Nginx/Apache, GCP (Google Cloud Platform), AWS (Amazon Web Services), Microsoft Azure, Kubernetes (k8s), Terraform </b>
   <br>
-  <b>Testing Expertise:</b> Manual Testing, Regression Testing, Test Cases Creation, Bug Tracking, SDLC, Jira, Zephyr.
+  <b>Quality Assurance: Jira, Zephyr, Bug Tracking, Manual, Functional, Regression & Smoke Testing and Test Cases/Plans Creation</b>
 </p>
 
 <br>
