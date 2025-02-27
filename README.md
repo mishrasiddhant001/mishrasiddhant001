@@ -17,7 +17,7 @@
 <br>
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/_m_siddhant" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_m_siddhant" height="30" width="40" /></a>
+<a href="https://x.com/_m_siddhant_" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_m_siddhant" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/siddhant-mishra-43584b198/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhant-mishra-43584b198/" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/18800624/siddhant-mishra" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18800624/siddhant-mishra" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/_mishra_siddhant_" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_mishra_siddhant_" height="30" width="40" /></a> -->
