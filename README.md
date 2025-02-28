@@ -3,9 +3,9 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/master/intro.gif">
 
-- 🔭 I’m currently working on **DevOps** (**Docker**, **CI/CD Pipelines**(**Jenkins**), **Containerization & Orchestration**, **Kubernetes**, **Terraform**, **Cloud Infrastructure Management**, , **Automation** along with **Testing**.
+- 🔭 I’m currently working on **DevOps** (**Docker**, **CI/CD Pipelines**(**Jenkins**), **Containerization & Orchestration**, **Kubernetes**, **Terraform**, **Cloud Infrastructure Management**, , **Automation**.
 
-- 🌱 I’m learning **API's** using **FastAPI**.
+- 🌱 Learning **API's** using **FastAPI**.
 
 - 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant/" target="_blank" rel="noopener noreferrer">My portfolio</a>
 
