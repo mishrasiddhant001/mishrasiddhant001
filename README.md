@@ -22,18 +22,12 @@ A passionate DevOps Engineer who loves automating everything, simplifying comple
 
 ⚡ Fun Fact: I love 📚 poetry, 📸 photography, and diving into 📖 mangas when I'm not automating things.
 
-<br> <h3 align="left">🌐 Connect with me:</h3> <p align="left"> <a href="https://x.com/_m_siddhant_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/siddhant-mishra-43584b198/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> <a href="https://leetcode.com/u/_mishra_siddhant_/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a> </p>
+<br> <h3 align="left">🌐 Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/siddhant-mishra-43584b198/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> <a href="https://leetcode.com/u/_mishra_siddhant_/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a> <a href="https://x.com/_m_siddhant_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a> </p>
 # 💻 Tech Stack:
 <p>
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=python,linux,docker,kubernetes,jenkins,git,terraform,nginx,aws,gcp,bash,vscode,postman,mysql,java" />
   </a>
-  <br>
-  
-  <b>Devops:  Docker, Jenkins, CI/CD Pipelining, Automation, Shell Scripting, Bash, Nginx/Apache, GCP (Google Cloud Platform), AWS (Amazon Web Services), Microsoft Azure, Kubernetes (k8s), Terraform </b>
-  <br>
-  <br>
-  <b>Quality Assurance:  Jira, Zephyr, Bug Tracking, Manual, Functional, Regression & Smoke Testing and Test Cases/Plans Creation</b>
 </p>
 
 <br>
