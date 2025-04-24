@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/main/image.png" alt="divider">
 </div>
-<h1 align="center"><strong>Hey there! I'm Siddhant Mishra 👋</strong></h1>
+<h1 align="left"><strong>Hey there! I'm Siddhant Mishra 👋</strong></h1>
 
 <br>
 
@@ -19,28 +19,19 @@ A passionate <strong>DevOps Engineer</strong> who loves automating everything, s
 - 💻 Automating <strong>Laravel based CMS</strong> and <strong>APIs</strong> with real-time monitoring and dynamic provisioning using IaC principles.  
 - 📈 Skilled in <strong>Monitoring</strong>, <strong>Logging</strong>, <strong>Security & Compliance</strong>, and <strong>Infrastructure scaling</strong>.  
 
-👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant/" target="_blank" rel="noopener noreferrer">My Portfolio</a>  
-📫 <a href="mailto:siddhantmishra1002@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>  
-📄 <a href="https://flowcv.com/resume/k1ui39eoi4" target="_blank" rel="noopener noreferrer">My Resume</a>  
 
 ⚡ Fun Fact: I love 📚 poetry, 📸 photography, and diving into 📖 mangas when I'm not automating things.
 
----
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/siddhant-mishra-43584b198/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a> 
-  <a href="https://leetcode.com/u/_mishra_siddhant_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a> 
-  <a href="https://x.com/_m_siddhant_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-</p>
 
-# 💻 Tech Stack:
+#### 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant/" target="_blank" rel="noopener noreferrer">My Portfolio</a>  
+#### 📄 <a href="https://flowcv.com/resume/k1ui39eoi4" target="_blank" rel="noopener noreferrer">My Resume</a>  
+#### 📫 <a href="mailto:siddhantmishra1002@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>  
+
+
+<br>
+
+# 🛠️ Tech Stack:
 <p>
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=python,linux,docker,kubernetes,jenkins,git,terraform,nginx,aws,gcp,bash,vscode,postman,mysql,java" />
