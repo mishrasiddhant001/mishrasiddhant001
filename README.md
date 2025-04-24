@@ -24,8 +24,8 @@ A passionate <strong>DevOps Engineer</strong> who loves automating everything, s
 
 
 
-#### 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant/" target="_blank" rel="noopener noreferrer">My Portfolio</a>  
 #### 📄 <a href="https://flowcv.com/resume/k1ui39eoi4" target="_blank" rel="noopener noreferrer">My Resume</a>  
+#### 👨‍💻 <a href="https://mishrasiddhant001.github.io/Siddhant/" target="_blank" rel="noopener noreferrer">My Portfolio</a>  
 #### 📫 <a href="mailto:siddhantmishra1002@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>  
 
 
