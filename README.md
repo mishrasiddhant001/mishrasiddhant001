@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="360" style="margin-left: 40px;" src="https://raw.githubusercontent.com/mishrasiddhant001/mishrasiddhant001/master/intro.gif">
 
-Hey there! I'm Siddhant Mishra 👋  
+## Hey there! I'm Siddhant Mishra 👋  
 A passionate DevOps Engineer who loves automating everything, simplifying complexity, and deploying scalable solutions in the cloud.
 
 🔭 Currently working as a DevOps Engineer at TVID Services, deploying scalable solutions on AWS, GCP, and Azure.
