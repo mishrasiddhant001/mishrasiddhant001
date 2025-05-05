@@ -12,7 +12,7 @@
 A passionate <strong>DevOps Engineer</strong> who loves automating everything, simplifying complexity, and deploying scalable solutions in the cloud.
 </p>
 
-- 🔭 Currently working as a DevOps Engineer at <strong>TVID Services</strong>, deploying scalable solutions on AWS, GCP, and Azure.  
+- 🔭 Currently working as a DevOps Engineer at <strong>ESQ Management Solutions</strong>.  
 - 📖 🌱 Currently learning and exploring more on <strong>Ansible</strong> and <strong>FastAPI</strong>.  
 - 🚀 Built a Streamlit + Docker-based app to create various <strong>automation tools</strong>.  
 - 🛠️ Experienced with <strong>Python</strong>, <strong>CI/CD Pipelines</strong>, <strong>Blue-Green Deployment</strong>, <strong>Server Management</strong>, <strong>Jenkins</strong>, and <strong>Terraform</strong>.  
